@@ -38,7 +38,7 @@
 - React를 이용한 FE 개발
 
 ## [사용 기술]
-
+### [프론트엔드]
 - React.js
 - Mono Repo 구조
 - TailWindcss
@@ -50,7 +50,7 @@
 - Android Studio - kotiln
 - etc..
 
-백엔드
+### [백엔드]
 
 - Spring Boot
 - AWS S3
