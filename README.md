@@ -1,5 +1,10 @@
+# 중고차 거래 플랫폼 프로젝트 (WhatCha)
 
-![표지.png](attachment:cd95e1c2-fe01-49e5-9d23-e707a3440a28:표지.png)
+![image](https://github.com/user-attachments/assets/3c1601b7-4d32-43ab-a881-9792c351db13)
+![image](https://github.com/user-attachments/assets/dbce2a8c-b64c-4e01-b645-dffaec105882)
+![image](https://github.com/user-attachments/assets/18df4c2a-4250-4a59-91c0-21ce51a88d11)
+![image](https://github.com/user-attachments/assets/23633392-5bc6-44f3-ad0c-a59cfcbe0f38)
+
 
 ## **[프로젝트 소개]**
 
